@@ -50,4 +50,4 @@ Identification of top-selling and underperforming products
 
 Power BI / Tableau Dashboard integration
 
-## screenshot:https:[//github.com/DivyaMuskan/Sales-Analysis-of-Amazon-product/blob/main/Sales%20Analysis.jpg](url)
+## screenshot:https://github.com/DivyaMuskan/Sales-Analysis-of-Amazon-product/blob/main/Sales%20Analysis.jpg
